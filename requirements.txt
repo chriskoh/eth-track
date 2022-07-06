@@ -10,7 +10,7 @@ cryptography==2.1.4
 enum34==1.1.6
 idna==2.6
 ipaddress==1.0.19
-lxml==4.1.1
+lxml==4.9.1
 pycparser==2.18
 pycrypto==2.6.1
 PyJWT==1.5.3
